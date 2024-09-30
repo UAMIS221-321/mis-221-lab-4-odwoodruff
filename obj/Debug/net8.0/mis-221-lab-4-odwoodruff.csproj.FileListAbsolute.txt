@@ -1,0 +1,15 @@
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/obj/Debug/net8.0/mis-221-lab-4-odwoodruff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/obj/Debug/net8.0/mis-221-lab-4-odwoodruff.AssemblyInfoInputs.cache
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/obj/Debug/net8.0/mis-221-lab-4-odwoodruff.AssemblyInfo.cs
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/obj/Debug/net8.0/mis-221-lab-4-odwoodruff.csproj.CoreCompileInputs.cache
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/obj/Debug/net8.0/mis-221-lab-4-odwoodruff.sourcelink.json
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/bin/Debug/net8.0/mis-221-lab-4-odwoodruff
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/bin/Debug/net8.0/mis-221-lab-4-odwoodruff.deps.json
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/bin/Debug/net8.0/mis-221-lab-4-odwoodruff.runtimeconfig.json
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/bin/Debug/net8.0/mis-221-lab-4-odwoodruff.dll
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/bin/Debug/net8.0/mis-221-lab-4-odwoodruff.pdb
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/obj/Debug/net8.0/mis-221-lab-4-odwoodruff.dll
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/obj/Debug/net8.0/refint/mis-221-lab-4-odwoodruff.dll
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/obj/Debug/net8.0/mis-221-lab-4-odwoodruff.pdb
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/obj/Debug/net8.0/mis-221-lab-4-odwoodruff.genruntimeconfig.cache
+/Users/osheawoodruff/Desktop/MIS_LAB_Notes/mis-221-lab-4-odwoodruff/obj/Debug/net8.0/ref/mis-221-lab-4-odwoodruff.dll
